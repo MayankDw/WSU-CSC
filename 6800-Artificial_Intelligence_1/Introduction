@@ -16,3 +16,10 @@ Agent is something that acts - More specifically
 2) A rational agent is the one that acts to achieve the best outcome - In Principle, it allows the construction of a comprehensive model of rational thought, leading from raw perceptual
 information to an understanding of how the world works to prediction about the future. 
 
+- we don't want machines that are intelligent in the sense of persuing their objective; we want them to pursue our objectives. if we cannot transfer those objectives perfectly to the 
+- machine, then we need a new formulation- one in which the machine is pursing the objective, but is necessarily uncertain as to what they are. When a machine knows that it doesn't know 
+- the complete objective, it has an incentive to act cautiously, to ask permission, to learn more about our preferences through observation, and to defer to human control. Ultimately, 
+- we want agents that are provably beneficial to humans. 
+
+
+
