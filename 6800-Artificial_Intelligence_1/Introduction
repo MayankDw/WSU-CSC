@@ -8,3 +8,11 @@ The computer would needs following capabilities
 # Thinking humanaly - Cognitive model approach.
 # Thinking Rationally - Laws of thought approach inline with logic.
 # Acting Rationally - The rational agent approach, which is an agent acting to achieve the best expected outcome. 
+
+Agents : 
+---------
+Agent is something that acts - More specifically 
+1) Operate autonomously, preceive their environment, persist over a prolonged time period, adapt a change, and create and pursue goals.
+2) A rational agent is the one that acts to achieve the best outcome - In Principle, it allows the construction of a comprehensive model of rational thought, leading from raw perceptual
+information to an understanding of how the world works to prediction about the future. 
+
