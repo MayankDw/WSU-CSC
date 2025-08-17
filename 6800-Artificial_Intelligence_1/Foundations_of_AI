@@ -41,3 +41,11 @@ Computer Engineering
 - The first electronic computer, the ABC, was assembled by John Atanasof and his student clifford berry between 1940 and 1942 at Iowa state University.
 - ENIAC developed as part of a secret military project at the university of Pennsylvania by a team including John Macuhly and J. Presper Eckret, that provided 
   to be the most influential forerunner of modern computers. 
+
+Moore's Law
+- Each generation of computer hardware has brought an increase in speed and capacity and a decrease in price - trend captured in Moore's LAw. 
+- Performance was doubled every every months or so until around 2005, when power dissipation problems led manufacturers to start multiplying the number of CPU cores rather than clock speed.
+- A machine learning problem that took a whole day to train in 2014 takes only two mins in 2018. 
+- Quantum computing holds out the promise of far greater accelerations for some important subclass of algorithms. 
+
+
