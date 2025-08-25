@@ -62,3 +62,24 @@ successful demonstrations of driving on dirt roads in the 132-mile DARPA Grand C
 in 2005 (Thrun, 2006) and on streets with traffic in the 2007 Urban Challenge, the race to
 develop self-driving cars began in earnest.
 
+SPEECH RECOGNITION: In 2017, Microsoft showed that its Conversational Speech
+Recognition System had reached a word error rate of 5.1%, matching human performance
+on the Switchboard task, which involves transcribing telephone conversations (Xiong et al.,
+2017). About a third of computer interaction worldwide is now done by voice rather than
+keyboard; 
+
+RECOMMENDATIONS: Companies such as Amazon, Facebook, Netflix, Spotify, YouTube,
+Walmart, and others use machine learning to recommend what you might like based on
+your past experiences and those of others like you. 
+
+IMAGE UNDERSTANDING: Not content with exceeding human accuracy on the
+challenging ImageNet object recognition task, computer vision researchers have taken on
+the more difficult problem of image captioning. Some impressive examples include “A
+person riding a motorcycle on a dirt road,” “Two pizzas sitting on top of a stove top oven,”
+and “A group of young people playing a game of frisbee”
+
+CLIMATE SCIENCE: A team of scientists won the 2018 Gordon Bell Prize for a deep
+learning model that discovers detailed information about extreme weather events that were
+previously buried in climate data. They used a supercomputer with specialized GPU
+hardware to exceed the exaop level ( 1018
+operations per second),
